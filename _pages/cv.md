@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Huazhong University of Science and Technology, 2007
+* M.S. in Communication and Information Systems, Huazhong University of Science and Technology, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current from Jul. 2011: Assistant Professor
+  * Department of Communication, Anhui University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2018-Nov. 2021: Senior Software Engineer
+  * Itourtranslator Co.Ltd
+  * Duties included: architecture design and development of the backend software system of Itourtranslaor App.
+
+* Jul. 2009-Jun. 2011: Software Engineer
+  * ZTE Co.Ltd
+  * Duties included: Research and development software of Next Generation Network
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java, C++, C, Python, JavaScript
+* Interested in mathematics, algorithms and their applications
 
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Download full CV here](http://zhao-bob.github.io/files/CV.pdf)
