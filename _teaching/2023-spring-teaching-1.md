@@ -1,8 +1,8 @@
 ---
-title: "Principles and Applications of Microcomputer and Microcontroller"
+title: "Information Theory"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching-2
+type: "Workshop"
+permalink: /teaching/2023-spring-teaching-1
 venue: "Anhui University, Department of Communication Engineering"
 date: 2022-02-01
 location: "Hefei, China"
